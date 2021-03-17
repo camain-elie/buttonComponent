@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://camain-elie.github.io/buttonComponent/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/camain-elie/buttonComponent">
       Solution
     </a>
     <span> | </span>
@@ -31,6 +31,7 @@
 - [Features](#features)
 - [How to use](#how-to-use)
 - [Contact](#contact)
+- [Possible improvements](#improvements)
 - [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
@@ -83,6 +84,16 @@ $ npm install
 # Run the app
 $ npm start
 ```
+## Contact
+
+- GitHub [@camain-elie](https://{github.com/camain-elie})
+
+## Possible improvements
+
+Changes might be added later to fix or improve the App :
+- :focus, :hover and font (for dark backgrounds) for button with CSS color props.
+- Better use of scss in the React App and components.
+- Tests.
 
 ## Acknowledgements
 
@@ -90,6 +101,3 @@ $ npm start
 
 - [Test if a string is a valid CSS color](https://stackoverflow.com/questions/48484767/javascript-check-if-string-is-valid-css-color)
 
-## Contact
-
-- GitHub [@your-username](https://{github.com/camain-elie})
